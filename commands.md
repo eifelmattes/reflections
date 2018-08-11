@@ -2,6 +2,6 @@
 
 ## add
 
-* git add [filenam]
+* git add [filename]
 
 
