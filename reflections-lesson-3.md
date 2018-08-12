@@ -1,0 +1,2 @@
+**Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?**
+*Weil ich online nur funktionsfähige Versionen haben möchte.*
